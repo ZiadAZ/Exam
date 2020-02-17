@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="g1">الدوحة عاصمة قطر</string>
+    <string name="g2">طرابلس عاصمة الجزائر</string>
+    <string name="g3">الصين أكبر دولة في مساحة</string>
+    <string name="g4">جوهانسبرغ عاصمة البرازيل</string>
+    <string name="g5">سدني عاصمة استراليا</string>
+    <string name="g6">أكبر المحيطات هو الاطلنطي </string>
+    <string name="g7">تعبر العاصمة البوليفية لاباز الأعلى ارتفاعا بين العواصم </string>
+    <string name="g8">نهر الراين في أميركا</string>
+    <string name="g9">مضيف بنما يقع في جنوب شرق آسيا</string>
+
+    <string name="ch1">رمز الصوديوم Na</string>
+    <string name="ch2"> يصنع الزجاج من الرمل</string>
+    <string name="ch3">تكافؤ الاكسجين هو ثنائي</string>
+    <string name="ch4">العدد الذري للحديد هو 6</string>
+    <string name="ch5">يتمدد الماء عند التجميد</string>
+    <string name="ch6">يتكون الحديد في باطن الأرض</string>
+    <string name="ch7">نسبة الكالسيوم في الأرض أقل من 3%</string>
+    <string name="ch8">مينيا الأسنان تعتبر أقوى مادة في جسم الإنسان</string>
+    <string name="ch9">اليورانيوم عنصر مشع</string>
+
+    <string name="s1">ريال مدريد لديه النصيب الأسد من أبطال أوربا</string>
+    <string name="s2">قطر الدولة المستضيفة لمونديال كأس العالم لكرة القدم 2022</string>
+    <string name="s3">محمد علي كلاي الأفضل في تاريخ الملاكمة</string>
+    <string name="s4">يلقب المتخب الفرنسي بالصقور</string>
+    <string name="s5">القتال المختلط</string>
+    <string name="s6">رافائيل نادال لاعب كرة قدم</string>
+    <string name="s7">نادي يوفينتوس الأكثر تتويجا بالدوري الايطالي</string>
+    <string name="s8">الالعاب الالومبية</string>
+    <string name="s9">السباحة</string>
+</resources>

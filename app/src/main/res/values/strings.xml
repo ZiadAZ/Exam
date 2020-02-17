@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="true_b">نعم</string>
+    <string name="fals_b">لا</string>
+    <string name="chemistry">كيمياء</string>
+    <string name="geographic">جغرافيا</string>
+    <string name="sport">رياضة</string>
+    <string name="change">تغيير السؤال</string>
+    <string name="prev">السؤال السابق</string>
+    <string name="correct">إجابة صحيحة</string>
+    <string name="wrong">إجابة خاطئة</string>
+    <string name="score">درجتك</string>
+    <string name="chose">Chose a category</string>
+
+</resources>
